@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Student\source\repos\mide term\mide term\Source.cpp(10,29): warning C4552: '+': result of expression not used
+C:\Users\Student\source\repos\mide term\mide term\Source.cpp(14,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\source\repos\mide term\mide term\Source.cpp(4,14): warning C4101: 'bonus': unreferenced local variable
+  mide term.vcxproj -> C:\Users\Student\source\repos\mide term\Debug\mide term.exe
